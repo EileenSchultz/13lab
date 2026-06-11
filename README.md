@@ -1,6 +1,9 @@
 # Практика 13
 
-Нужно сделать круд эндпоинты для новой сущности Book, представляющей собой запись данные о книге в библиотеке
+Нужно сделать круд эндпоинты для новой сущности Book, представляющей собой запись данные о книге в библиотеке.
+Так же крудики покрыты тестами.
+<img width="307" height="43" alt="image" src="https://github.com/user-attachments/assets/69a7cce3-971f-40b3-aab4-e6a8bd137d72" />
+
 
 <div class="tableWrapper"><div class="tableWrapper-inner"><table style="--default-cell-min-width: 120px; min-width: 360px;"><colgroup><col><col><col></colgroup><tbody><tr><td colspan="1" rowspan="1"><p>Колонка</p></td><td colspan="1" rowspan="1"><p>Тип C#</p></td><td colspan="1" rowspan="1"><p>Nullable</p></td></tr><tr><td colspan="1" rowspan="1"><p>Id</p></td><td colspan="1" rowspan="1"><p>int</p></td><td colspan="1" rowspan="1"><p>-</p></td></tr><tr><td colspan="1" rowspan="1"><p>Name</p></td><td colspan="1" rowspan="1"><p>string</p></td><td colspan="1" rowspan="1"><p>-</p></td></tr><tr><td colspan="1" rowspan="1"><p>Author</p></td><td colspan="1" rowspan="1"><p>string</p></td><td colspan="1" rowspan="1"><p>-</p></td></tr><tr><td colspan="1" rowspan="1"><p>ReleaseDate</p></td><td colspan="1" rowspan="1"><p>DateOnly</p></td><td colspan="1" rowspan="1"><p>+</p></td></tr></tbody></table></div><div class="table-widgets-container" style="position: relative;"></div></div>
 
