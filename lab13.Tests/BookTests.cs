@@ -37,6 +37,7 @@ public class BookTests: IClassFixture<ApiFactory>
         Assert.Equal("F.F Aydfstds", book.Author);
     }
     
+    [Fact]
     public async Task GetBook_ById()
     {
         // Arrange
